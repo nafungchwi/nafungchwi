@@ -3,51 +3,47 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PVT SOFTWARE (Flowgrids ltd.)</b>
-  - [SCRUM ANALYSIS, PYTHON, PHP, SQL, REACT, GIT](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SCRUM ANALYSIS, PYTHON, PHP, SQL, REACT, GIT](https://github.com/nafungchwi/PVT_Software)
+  
 - <b>SCHOOL DATABASE MANAGEMENT SYSTEM (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Landmark Database Management System](https://github.com/nafungchwi/DatabaseManagementSystem) 
+  
 - <b>JAVA APPLICATION DEVELOPMENT (JAVA)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b> PIPELINE INTEGRITY MANAGEMENT SYSTEM (SQL, PHP, Microsoft PowerBI, Tableau, PYTHON)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [JAVA Projects](https://replit.com/team/RevUp3)
+  - [Java Phone App (RESTRICTED)]
+  
+- <b> PIPELINE INTEGRITY MANAGEMENT SYSTEM (SQL, PHP, Microsoft PowerBI, Tableau, PYTHON) - Restricted</b>
+
 - <b>MACHINE LEARNING</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning Projects Using Matlab](https://github.com/nafungchwi/Machine_Learning_Projects)
+  - [Machine Learning Tools for Predicting Sand Production (ANN and SVM) Using Python](https://github.com/nafungchwi/Machine-Learning-Python)
   
 - <b>FREELANCE WEB DEVELOPMENT</b>
   - [School Website from Scratch using REACT and Python)](https://landmarkmetropolitanuniversity.com/)
   - [Landmark Technologies Website from Scratch using REACT and Python)](https://mylandmarktech.com/contact-us/)
 
 <b>DEVOPS PROJECTS</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [DEVOPS Projects (Package Management)](https://github.com/nafungchwi/package-management)
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Jenkins, Docker, Kubernetes with AWS ELB, kops Multi-Tier Applications Deployment](https://www.youtube.com/watch?v=TdYFH-hohB4)
+- [Landmark Technologies Training Videos](https://www.youtube.com/channel/UCa98yMG9Sxtcyk61li3jPwQ)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="RonaldNgwashi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="RonaldNgwashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RonaldNgwashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/RonaldAfungchwi
+[instagram]: https://www.instagram.com/ron_afungchwi/
+[linkedin]: https://www.linkedin.com/in/ronald-ngwashi-591693b8/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nafungchwi/nafungchwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
