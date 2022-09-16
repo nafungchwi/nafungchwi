@@ -19,8 +19,8 @@
   - [Machine Learning Tools for Predicting Sand Production (ANN and SVM) Using Python](https://github.com/nafungchwi/Machine-Learning-Python)
   
 - <b>FREELANCE WEB DEVELOPMENT</b>
-  - [School Website from Scratch using REACT and Python)](https://landmarkmetropolitanuniversity.com/)
-  - [Landmark Technologies Website from Scratch using REACT and Python)](https://mylandmarktech.com/contact-us/)
+  - [School Website from Scratch using REACT and Python](https://landmarkmetropolitanuniversity.com/)
+  - [Landmark Technologies Website from Scratch using REACT and Python](https://mylandmarktech.com/)
 
 <b>DEVOPS PROJECTS</b>
   - [DEVOPS Projects (Package Management)](https://github.com/nafungchwi/package-management)
