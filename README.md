@@ -17,6 +17,7 @@
 - <b>MACHINE LEARNING</b>
   - [Machine Learning Projects Using Matlab](https://github.com/nafungchwi/Machine_Learning_Projects)
   - [Machine Learning Tools for Predicting Sand Production (ANN and SVM) Using Python](https://github.com/nafungchwi/Machine-Learning-Python)
+  - [Machine Learning Tools for Predicting Sand Production (ANN and SVM) Using Python Part 2](https://github.com/nafungchwi/ClassficationProblemOilandGas)
   
 - <b>FREELANCE WEB DEVELOPMENT</b>
   - [School Website from Scratch using REACT and Python](https://landmarkmetropolitanuniversity.com/)
