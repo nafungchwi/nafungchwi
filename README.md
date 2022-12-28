@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ronald! <br/><a href="https://github.com/nafungchwi">Software Engineer</a></h1>
+<h1>Hi, I'm Ronald! <br/><a href="https://github.com/nafungchwi">Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
